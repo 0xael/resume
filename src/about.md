@@ -59,7 +59,7 @@ Services I can offer to my clients include but are not limited to:
 
 :email: [alyelalwany@gmail.com](mailto:alyelalwany@gmail.com)
 
-:link: [LinkedIn](https://www.linkedin.com/in/alyelalwany/)
+:link: [LinkedIn](https://www.linkedin.com/in/0xael/)
 
 :lock: Use
 this <a href="resources/publickey.alimagdi@protonmail.com-726fde8f2f5ec2d592dec63df17dec869958b3b0.asc" download>GPG
